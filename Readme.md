@@ -2,6 +2,7 @@
 
 * Студент: [Маргарита Ли](https://up.htmlacademy.ru/htmlcss/40/user/1577741).
 * Наставник: [] ().
+* Сайт: [Сайт Седона] (https://margaritalee.github.io/1577741-sedona-40/)
 
 ---
 
